@@ -44,6 +44,7 @@ cd Student-Record-Management-System
 ```
 
 **2. Compile the source code**:
+
 Navigate to the src directory and run the compile command.
 ```
 cd src
