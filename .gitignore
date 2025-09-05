@@ -1,0 +1,8 @@
+# Compiled Java class files
+*.class
+
+# Log files
+*.log
+
+# Data files
+students.txt
